@@ -26,6 +26,8 @@
             "src/js/Notifier.js",
             "src/js/Util.js",
             "src/js/Constants.js",
+            "src/js/definitions/i18n/i18n.js",
+            "src/js/definitions/i18n/resource.js",
             "src/js/definitions/process/DetectTime.js",
             "src/js/definitions/models/Stash.js",
             "src/js/definitions/models/server/ServerBase.js",
