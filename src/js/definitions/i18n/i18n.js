@@ -6,7 +6,6 @@ var KanColleWidget = KanColleWidget || {};
             // see config
             var lang = Config.get("user-lang");
             // get text
-            key = "test"//TMP: hard coding
             return KanColleWidget.Resource[lang][key];
         },
         c : function(key, params) {
